@@ -1,0 +1,6 @@
+# fazer:
+- algoritmo em python que melhore/otimize o problema, utilizando estruturas de dados
+- grupo: Tech Warriors
+- entregar dia 19/04
+- apresentar pitch (3 minutos) e depois o código em funcionamento com as respostas das perguntas da banca no dia 20/04
+- entrar código e pdf do pitch em um zip na plataforma
