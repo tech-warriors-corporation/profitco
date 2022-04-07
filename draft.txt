@@ -3,7 +3,7 @@
 - grupo: Tech Warriors
 - entregar dia 19/04
 - apresentar pitch (3 minutos) e depois o código em funcionamento com as respostas das perguntas da banca no dia 20/04 as 19:30
-- entrar código e pdf do pitch em um zip na plataforma
+- entregar código e pdf do pitch em um zip na plataforma
 - pensar em pitch com time
 - danilo apresenta o pitch e joao o codigo
 
