@@ -1,17 +1,39 @@
-# fazer:
-- algoritmo em python que melhore/otimize o problema, utilizando estruturas de dados
-- grupo: Tech Warriors
-- entregar dia 19/04
-- apresentar pitch (3 minutos) e depois o código em funcionamento com as respostas das perguntas da banca no dia 20/04 as 19:30
-- entregar código e pdf do pitch em um zip na plataforma
-- pensar em pitch com time
-- danilo apresenta o pitch e joao o codigo
+RESUMO
+- Entrega dia 19/04
+- Live de apresentação dia 20/04 às 19:30
+- Objetivo: Algoritmo em Python (utilizando o sistema de estrutura de dados) que melhore/otimize o problema apresentado.
+- Parte 1: Algoritmo
+- Parte 2: Pitch de Apresentação
 
-# steps slides do pitch pptx
-- inicio: nome do algoritmo (ex: SS - Simple Solution), com dado marcante
-- problema: apresentar problema
-- solucao: ideia, pensamos em um algoritmo leve, de facil leitura e de simples entendimento, porque não adianta matar uma barata com um bazuca, é um recurso mal alocado. utilizamos estruturas de dados e etc
-- informacoes da solucao: imagens e etc, tamanho do arquivo
-- integrantes: foto e nome
-- agradecimento: com frase bacana
-- codigo funcionando: explicar codigo e mostrar algoritmo funcionando
+FAZER
+- Algoritmo em Python que busca uma tratativa para o problema mencionado.
+- Entregar o código e o Pitch em pdf na plataforma.
+- Pitch (3 minutos) + Apresentação do código + Responder as perguntas da banca no dia da apresentação.
+
+SEPARAÇÃO DAS TAREFAS
+- João e Danilo -> Código
+- Lucas e Caio -> Pitch
+- Danilo -> Apresentação do Pitch(?)
+
+SLIDES DO PITCH
+1º Introdução (Capa)
+	- Nome do Código (ex: Simple Solution)
+	- Frase impactando/sugestiva que chame a atenção
+	- Nome dos integrantes + Logo do Grupo
+2º Problema 
+	- Apresentar o problema
+	- Texto chamativo com imagens sugestivas
+	- Gancho para o slide "Solução"
+3º Solução
+	- Falar que buscamos um "Algoritmo leve, fácil leitura, simples de ser feito... e com a utilização de estrutura de dados..."
+	- Encaixar Python como uma solução para oq pensamos.
+	- Explicar um pouco sobre Python.
+	- Verbalizar o Código na lógica que chegamos (apresentar imagens para nos auxiliar).
+	- Gancho para o Time.
+4º Time
+	- Fotos e Nomes
+5º Agradecimento
+	- Frase impactante 
+6º Apresentação do Código em funcionamento (João)
+	- Explicar ele funcionando (passos que ele faz)
+	- Apresentar resultado final
