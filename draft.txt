@@ -1,5 +1,5 @@
 RESUMO
-- Entrega dia 19/04
+- Entrega dia 20/04
 - Live de apresentação dia 20/04 às 19:30
 - Objetivo: Algoritmo em Python (utilizando o sistema de estrutura de dados) que melhore/otimize o problema apresentado.
 - Parte 1: Algoritmo
@@ -19,7 +19,7 @@ SLIDES DO PITCH
 1º Introdução (Capa)
 	- Nome do Código (ex: algoritmo Simple Solution do projeto ProfitCo)
 	- Frase impactando/sugestiva que chame a atenção
-	- Logo do Grupo
+	- Logo do Grupo do Tech Warriors
 2º Problema 
 	- Apresentar o problema
 	- Texto chamativo com imagens sugestivas
