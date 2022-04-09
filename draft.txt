@@ -7,25 +7,25 @@ RESUMO
 
 FAZER
 - Algoritmo em Python que busca uma tratativa para o problema mencionado.
-- Entregar o código e o Pitch em pdf na plataforma.
+- Entregar o código e o Pitch em pdf na plataforma em um .zip.
 - Pitch (3 minutos) + Apresentação do código + Responder as perguntas da banca no dia da apresentação.
 
 SEPARAÇÃO DAS TAREFAS
 - João e Danilo -> Código
 - Lucas e Caio -> Pitch
-- Danilo -> Apresentação do Pitch(?)
+- Danilo -> Apresentação do Pitch
 
 SLIDES DO PITCH
 1º Introdução (Capa)
-	- Nome do Código (ex: Simple Solution)
+	- Nome do Código (ex: algoritmo Simple Solution do projeto ProfitCo)
 	- Frase impactando/sugestiva que chame a atenção
-	- Nome dos integrantes + Logo do Grupo
+	- Logo do Grupo
 2º Problema 
 	- Apresentar o problema
 	- Texto chamativo com imagens sugestivas
 	- Gancho para o slide "Solução"
 3º Solução
-	- Falar que buscamos um "Algoritmo leve, fácil leitura, simples de ser feito... e com a utilização de estrutura de dados..."
+	- Falar que buscamos um "Algoritmo leve, fácil leitura, simples de ser feito... e com a utilização de estrutura de dados... baseado na metodologia KISS (não adianda fazer um MegaZord para matar uma barata)"
 	- Encaixar Python como uma solução para oq pensamos.
 	- Explicar um pouco sobre Python.
 	- Verbalizar o Código na lógica que chegamos (apresentar imagens para nos auxiliar).
