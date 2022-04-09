@@ -5,6 +5,9 @@ RESUMO
 - Parte 1: Algoritmo
 - Parte 2: Pitch de Apresentação
 
+FUTURO
+- criar validações de quantidade máxima e outros
+
 FAZER
 - Algoritmo em Python que busca uma tratativa para o problema mencionado.
 - Entregar o código e o Pitch em pdf na plataforma em um .zip.
