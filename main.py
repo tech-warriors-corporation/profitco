@@ -5,12 +5,12 @@ current_quantity_of_base_products = 0
 minimum_quantity = 1000
 months_data = {}
 
-print("Bem-vindo a solução real dos seus problemas, essa é a Simple Solution do projeto ProfitCo da equipe Tech Warriors, responsável por ajudar você na parte financeira! A seguir pediremos algumas informações.")
+print("Bem-vindo a solução real dos seus problemas, esse é o algoritmo Simple Solution do projeto ProfitCo da equipe Tech Warriors, responsável por ajudar sua empresa na parte financeira! A seguir pediremos algumas informações.")
 
 print_bar()
 
 for month in months:
-    print(f"No mês de {month} você:")
+    print(f"No mês de {month} sua empresa:")
 
     base_products_should_i_buy = minimum_quantity - current_quantity_of_base_products
     current_quantity_of_base_products += base_products_should_i_buy
