@@ -26,7 +26,7 @@ def print_bar():
     print_space()
 
 def print_data(title, base_products_purchased_amount, total_spent, sold_amount, dirty_profit, total, final_quantity_of_base_products):
-    print(f"Seus dados {title} são:")
+    print(f"Suas informações {title} são:")
     print(f"* Foram comprados {base_products_purchased_amount} produtos base;")
     print(f"* Foi gasto um total de {format_money_value(total_spent)} na compra de produtos base;")
     print(f"* Vendeu {sold_amount} produtos customizados;")
