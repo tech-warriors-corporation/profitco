@@ -1,5 +1,4 @@
 months = ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"]
-number_of_months = len(months)
 
 def show_space():
     print("")
