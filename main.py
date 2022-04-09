@@ -6,7 +6,6 @@ minimum_quantity = 1000
 months_data = {}
 
 print("Bem-vindo a solução real dos seus problemas, esse é o algoritmo Simple Solution do projeto ProfitCo da equipe Tech Warriors, responsável por ajudar sua empresa na parte financeira! A seguir pediremos algumas informações.")
-
 print_bar()
 
 for month in months:
