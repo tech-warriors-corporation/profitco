@@ -30,8 +30,8 @@ def print_data(title, base_products_purchased_amount, total_spent, sold_amount, 
     print(f"* Foram comprados {base_products_purchased_amount} produtos base;")
     print(f"* Foi gasto um total de {format_money_value(total_spent)} na compra de produtos base;")
     print(f"* Venderam {sold_amount} produtos customizados;")
-    print(f"* Teve um lucro sujo de {format_money_value(dirty_profit)};")
-    print(f"* Teve um {('prejuízo', 'lucro')[total >= 0]} total de {format_money_value(total)} (essa conta é o lucro sujo subtraído pelo gasto total, pode ser positivo ou negativo, ou seja, lucro ou prejuízo);")
+    print(f"* Teve um lucro bruto de {format_money_value(dirty_profit)};")
+    print(f"* Teve um {('prejuízo total', 'lucro líquido')[total >= 0]} de {format_money_value(total)} (essa conta é o lucro bruto subtraído pelo gasto total, pode ser positivo ou negativo, ou seja, lucro ou prejuízo);")
     print(f"* Terminaram com um estoque de {final_quantity_of_base_products} produtos base;")
 
 def print_prices(price_base_product, price_sold_product):
