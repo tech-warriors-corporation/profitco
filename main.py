@@ -4,8 +4,9 @@ quantity_of_base_products_purchased = 0
 current_quantity_of_base_products = 0
 minimum_quantity = 1000
 months_data = {}
+price_sold_product = float(50)
 
-print("Bem-vindo a solução real dos seus problemas, esse é o algoritmo Simple Solution do projeto ProfitCo da equipe Tech Warriors, responsável por ajudar sua empresa na parte financeira! A seguir pediremos algumas informações.")
+print("Bem-vindo a solução real dos seus problemas, esse é o algoritmo Simple Solution do projeto ProfitCo criado para a Enterprise Challenge da equipe Tech Warriors, responsável por ajudar sua empresa na parte financeira! A seguir pediremos algumas informações.")
 print_bar()
 
 for month in months:
@@ -15,7 +16,6 @@ for month in months:
     current_quantity_of_base_products += base_products_should_i_buy
     quantity_of_base_products_purchased += base_products_should_i_buy
     price_base_product = float(input("- Pagou quanto por cada produto base nesse mês? R: "))
-    price_sold_product = float(input("- Vendeu por quanto cada produto customizado nesse mês? R: "))
     sold_amount = int(input("- Vendeu quantos produtos customizados nesse mês? R: "))
     total_spent = base_products_should_i_buy * price_base_product
     dirty_profit = price_sold_product * sold_amount

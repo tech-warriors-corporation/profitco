@@ -6,7 +6,7 @@ RESUMO
 - Parte 2: Pitch de Apresentação
 
 FUTURO
-- criar validações de quantidade máxima e outros
+- criar validações de quantidade máxima e outras validações
 
 FAZER
 - Algoritmo em Python que busca uma tratativa para o problema mencionado.
