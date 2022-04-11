@@ -17,26 +17,21 @@ SEPARAÇÃO DAS TAREFAS
 - João e Danilo -> Código
 - Lucas e Caio -> Pitch
 - Danilo -> Apresentação do Pitch
+- João -> Apresentação do código
 
 SLIDES DO PITCH
 1º Introdução (Capa)
-	- Nome do Código (ex: algoritmo Simple Solution do projeto ProfitCo)
-	- Frase impactando/sugestiva que chame a atenção
-	- Logo do Grupo do Tech Warriors
+	- 
 2º Problema 
-	- Apresentar o problema
-	- Texto chamativo com imagens sugestivas
-	- Gancho para o slide "Solução"
+	- 
 3º Solução
-	- Falar que buscamos um "Algoritmo leve, fácil leitura, simples de ser feito... e com a utilização de estrutura de dados... baseado na metodologia KISS (não adianda fazer um MegaZord para matar uma barata)"
-	- Encaixar Python como uma solução para oq pensamos.
-	- Explicar um pouco sobre Python.
-	- Verbalizar o Código na lógica que chegamos (apresentar imagens para nos auxiliar).
-	- Gancho para o Time.
+	- Não adianda fazer um MegaZord para matar uma barata.
+	- Verbalizar o Código na lógica que chegamos (apresentar esquemas).
 4º Time
-	- Fotos e Nomes
-5º Agradecimento
-	- Frase impactante 
-6º Apresentação do Código em funcionamento (João)
-	- Explicar ele funcionando (passos que ele faz)
-	- Apresentar resultado final
+	- Cargo de cada.
+5º Apresentação do Código (João)
+	- Explicar ele funcionando (passos que ele faz).
+	- Apresentar resultado final.
+6º Agradecimento	
+	- Frase impactante.
+	- Agradecimento final.
